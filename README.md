@@ -7,6 +7,11 @@ Udacity's Virtual Reality Nanodegree Project: Build an Apartment
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
+## Screenshots
+
+![Alt text](/Screenshot_FinalApartment.png?raw=true "Gander of robot de-venting on the couch")
+![Alt text](/Screenshot_FinalApartment2.png?raw=true "There be the nebula outside")
+
 ## Versions
 - Unity 2017.1.0p4
 - GVR Unity SDK v1.70.0
